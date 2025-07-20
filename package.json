@@ -1,6 +1,6 @@
 {
   "name": "use-derived-state-from-props",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React hook that implements getDerivedStateFromProps for function components",
   "repository": "https://github.com/satya164/use-derived-state-from-props",
   "author": "Satyajit Sahoo <satyajit.happy@gmail.com>",
