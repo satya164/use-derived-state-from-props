@@ -21,7 +21,7 @@ The `useDerivedStateFromProps` takes 3 arguments:
 - `getDerivedStateFromProps`: A function that derives the new state from the current props and state.
 
 ```js
-import useDerivedStateFromProps from 'use-derived-state-from-props';
+import { useDerivedStateFromProps } from 'use-derived-state-from-props';
 
 // ...
 
